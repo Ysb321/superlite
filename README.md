@@ -1,6 +1,6 @@
 # StableDiffusion GColab version
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U3ELttOpxcDP7BIxPaj58_GzyWVO1Wqk?usp=sharing)
-[![StableDiffusion](https://i.imgur.com/qHFSvw7.png)](https://colab.research.google.com/github/AlexSgt/lite_colab/blob/main/UntitledNotebookSD.ipynb)
+[![StableDiffusion]](https://colab.research.google.com/github/AlexSgt/lite_colab/blob/main/UntitledNotebookSD.ipynb)
 
 # Updates
 
