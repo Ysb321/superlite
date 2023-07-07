@@ -1,3 +1,0 @@
-[submodule "extensions-builtin/stable-diffusion-webui-images-browser"]
-	path = extensions-builtin/stable-diffusion-webui-images-browser
-	url = https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git
