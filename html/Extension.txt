@@ -11,3 +11,4 @@ https://github.com/kohya-ss/sd-webui-additional-networks
 https://github.com/zanllp/sd-webui-infinite-image-browsing
 https://github.com/Mikubill/sd-webui-controlnet
 https://github.com/s0md3v/sd-webui-roop
+https://github.com/muerrilla/stable-diffusion-NPW.git
