@@ -1,1 +1,2 @@
 https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git
+https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg.git
