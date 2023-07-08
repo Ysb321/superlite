@@ -10,5 +10,5 @@ https://github.com/camenduru/stable-diffusion-webui-huggingface
 https://github.com/kohya-ss/sd-webui-additional-networks
 https://github.com/zanllp/sd-webui-infinite-image-browsing
 https://github.com/Mikubill/sd-webui-controlnet
-https://github.com/Gourieff/sd-webui-roop-nsfw
+https://github.com/P2Enjoy/sd-webui-roop-uncensored
 https://github.com/muerrilla/stable-diffusion-NPW
