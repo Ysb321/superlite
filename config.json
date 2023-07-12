@@ -237,7 +237,7 @@
     "control_net_sync_field_args": false,
     "controlnet_show_batch_images_in_ui": false,
     "controlnet_increment_seed_during_batch": false,
-    "tac_tagFile": "danbooru.csv",
+    "tac_tagFile": "e621.csv",
     "tac_active": true,
     "tac_activeIn.txt2img": true,
     "tac_activeIn.img2img": true,
