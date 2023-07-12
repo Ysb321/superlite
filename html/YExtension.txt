@@ -2,7 +2,6 @@ https://github.com/vladmandic/sd-extension-system-info
 https://github.com/mcmonkeyprojects/sd-dynamic-thresholding
 https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111
 https://github.com/YKefasu/sd-artists-ui-tweak
-https://github.com/YKefasu/sd-artists-ui-tweak
 https://github.com/Iyashinouta/sd-model-downloader
 https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
 https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg
