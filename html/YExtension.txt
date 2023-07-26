@@ -4,5 +4,3 @@ https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111
 https://github.com/YKefasu/sd-artists-ui-tweak
 https://github.com/Iyashinouta/sd-model-downloader
 https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
-https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg
-https://github.com/Bing-su/sd-webui-tunnels/tree/main
